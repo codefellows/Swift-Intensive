@@ -1,0 +1,774 @@
+{
+    "items": [
+              {
+              "tags": [
+                       "objective-c",
+                       "automatic-ref-counting",
+                       "swift",
+                       "core-foundation"
+                       ],
+              "owner": {
+              "reputation": 1096,
+              "user_id": 1207489,
+              "user_type": "registered",
+              "accept_rate": 62,
+              "profile_image": "https://www.gravatar.com/avatar/66e9fe7a3824e4c55acc74001c5c91e9?s=128&d=identicon&r=PG",
+              "display_name": "Claude",
+              "link": "http://stackoverflow.com/users/1207489/claude"
+              },
+              "is_answered": false,
+              "view_count": 5,
+              "answer_count": 0,
+              "score": 0,
+              "last_activity_date": 1404061261,
+              "creation_date": 1404061261,
+              "question_id": 24478282,
+              "link": "http://stackoverflow.com/questions/24478282/cf-returns-retained-or-cf-returns-not-retained-which-to-use-when",
+              "title": "CF_RETURNS_RETAINED or CF_RETURNS_NOT_RETAINED: which to use when?"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "uiview",
+                       "uitextview",
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 23,
+              "user_id": 1544114,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/ee9d08b6ce8975fa450b4177f597892c?s=128&d=identicon&r=PG",
+              "display_name": "Alexey Suvorov",
+              "link": "http://stackoverflow.com/users/1544114/alexey-suvorov"
+              },
+              "is_answered": true,
+              "view_count": 28,
+              "answer_count": 1,
+              "score": 0,
+              "last_activity_date": 1404061168,
+              "creation_date": 1404052716,
+              "last_edit_date": 1404056336,
+              "question_id": 24477082,
+              "link": "http://stackoverflow.com/questions/24477082/swift-subclassing-uitextview-or-uicollectionview-and-proper-initialization",
+              "title": "Swift: Subclassing UITextView or UICollectionView and proper initialization"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "class",
+                       "integer",
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 88,
+              "user_id": 3292347,
+              "user_type": "registered",
+              "accept_rate": 60,
+              "profile_image": "https://www.gravatar.com/avatar/0c2a3998bf43ed2ea34ae89cec2418f8?s=128&d=identicon&r=PG&f=1",
+              "display_name": "ObjectiveCsam",
+              "link": "http://stackoverflow.com/users/3292347/objectivecsam"
+              },
+              "is_answered": true,
+              "view_count": 22,
+              "accepted_answer_id": 24475173,
+              "answer_count": 1,
+              "score": 0,
+              "last_activity_date": 1404060935,
+              "creation_date": 1404037117,
+              "last_edit_date": 1404060935,
+              "question_id": 24475116,
+              "link": "http://stackoverflow.com/questions/24475116/integer-not-changing-when-i-call-a-setter-method-from-another-class",
+              "title": "Integer not changing when i call a setter method from another class"
+              },
+              {
+              "tags": [
+                       "xcode",
+                       "swift",
+                       "xcode6"
+                       ],
+              "owner": {
+              "reputation": 1,
+              "user_id": 3657052,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/a2f7f7ef6993103e547c0c33bd84548d?s=128&d=identicon&r=PG&f=1",
+              "display_name": "user3657052",
+              "link": "http://stackoverflow.com/users/3657052/user3657052"
+              },
+              "is_answered": false,
+              "view_count": 23,
+              "closed_date": 1403674064,
+              "answer_count": 0,
+              "score": -3,
+              "last_activity_date": 1404060692,
+              "creation_date": 1403662264,
+              "last_edit_date": 1404060692,
+              "question_id": 24399135,
+              "link": "http://stackoverflow.com/questions/24399135/how-to-let-users-pick-images-from-album-in-xcode-6-swift",
+              "closed_reason": "off-topic",
+              "title": "How to let users pick images from album in xcode 6, swift?"
+              },
+              {
+              "tags": [
+                       "swift",
+                       "nsdata"
+                       ],
+              "owner": {
+              "reputation": 1212,
+              "user_id": 565336,
+              "user_type": "registered",
+              "accept_rate": 86,
+              "profile_image": "https://www.gravatar.com/avatar/718f83c1e979c99229ad1956c9d709f9?s=128&d=identicon&r=PG",
+              "display_name": "Stephan",
+              "link": "http://stackoverflow.com/users/565336/stephan"
+              },
+              "is_answered": false,
+              "view_count": 19,
+              "answer_count": 0,
+              "score": 0,
+              "last_activity_date": 1404060678,
+              "creation_date": 1404059936,
+              "last_edit_date": 1404060678,
+              "question_id": 24478087,
+              "link": "http://stackoverflow.com/questions/24478087/struct-into-nsdata",
+              "title": "Struct into NSData"
+              },
+              {
+              "tags": [
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 8085,
+              "user_id": 66814,
+              "user_type": "registered",
+              "accept_rate": 51,
+              "profile_image": "https://www.gravatar.com/avatar/5dcd76e0b9d1484c0c4c8d8d0c6710a2?s=128&d=identicon&r=PG",
+              "display_name": "Boon",
+              "link": "http://stackoverflow.com/users/66814/boon"
+              },
+              "is_answered": true,
+              "view_count": 13,
+              "accepted_answer_id": 24478052,
+              "answer_count": 1,
+              "score": 0,
+              "last_activity_date": 1404059713,
+              "creation_date": 1404059356,
+              "question_id": 24478010,
+              "link": "http://stackoverflow.com/questions/24478010/how-to-declare-internal-scope-constant-in-swift",
+              "title": "How to declare internal scope constant in Swift?"
+              },
+              {
+              "tags": [
+                       "cocoa-touch",
+                       "uialertview",
+                       "swift",
+                       "uialertcontroller"
+                       ],
+              "owner": {
+              "reputation": 474,
+              "user_id": 1704317,
+              "user_type": "registered",
+              "accept_rate": 64,
+              "profile_image": "http://i.stack.imgur.com/3yo5Q.png?s=128&g=1",
+              "display_name": "Jonathan",
+              "link": "http://stackoverflow.com/users/1704317/jonathan"
+              },
+              "is_answered": true,
+              "view_count": 2810,
+              "accepted_answer_id": 24022696,
+              "answer_count": 4,
+              "score": 12,
+              "last_activity_date": 1404059603,
+              "creation_date": 1401820519,
+              "last_edit_date": 1401978863,
+              "question_id": 24022479,
+              "link": "http://stackoverflow.com/questions/24022479/how-would-i-create-a-uialertview-in-swift",
+              "title": "How would I create a UIAlertView in Swift?"
+              },
+              {
+              "tags": [
+                       "floating-point",
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 13003,
+              "user_id": 610979,
+              "user_type": "registered",
+              "accept_rate": 85,
+              "profile_image": "https://www.gravatar.com/avatar/ed647ee02c7050bf0d8847871a7e4923?s=128&d=identicon&r=PG",
+              "display_name": "Frank Schmitt",
+              "link": "http://stackoverflow.com/users/610979/frank-schmitt"
+              },
+              "is_answered": true,
+              "view_count": 28,
+              "answer_count": 1,
+              "score": 3,
+              "last_activity_date": 1404059286,
+              "creation_date": 1404055884,
+              "question_id": 24477546,
+              "link": "http://stackoverflow.com/questions/24477546/why-does-swift-use-base-2-for-the-exponent-of-hexadecimal-floating-point-values",
+              "title": "Why does Swift use base 2 for the exponent of hexadecimal floating point values?"
+              },
+              {
+              "tags": [
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 18,
+              "user_id": 3705142,
+              "user_type": "registered",
+              "profile_image": "http://graph.facebook.com/100003608618266/picture?type=large",
+              "display_name": "user3705142",
+              "link": "http://stackoverflow.com/users/3705142/user3705142"
+              },
+              "is_answered": true,
+              "view_count": 350,
+              "accepted_answer_id": 24027426,
+              "answer_count": 2,
+              "score": 3,
+              "last_activity_date": 1404059268,
+              "creation_date": 1401842833,
+              "question_id": 24027271,
+              "link": "http://stackoverflow.com/questions/24027271/use-a-function-to-find-common-elements-in-two-sequences-in-swift",
+              "title": "Use a function to find common elements in two sequences in Swift"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "nsdictionary",
+                       "swift",
+                       "xcode6"
+                       ],
+              "owner": {
+              "reputation": 559,
+              "user_id": 908124,
+              "user_type": "registered",
+              "accept_rate": 56,
+              "profile_image": "https://www.gravatar.com/avatar/ab3e39b835895cd65074b8a08f1a7dfe?s=128&d=identicon&r=PG",
+              "display_name": "andyPaul",
+              "link": "http://stackoverflow.com/users/908124/andypaul"
+              },
+              "is_answered": false,
+              "view_count": 12,
+              "closed_date": 1404058957,
+              "answer_count": 1,
+              "score": 0,
+              "last_activity_date": 1404059200,
+              "creation_date": 1404058487,
+              "question_id": 24477894,
+              "link": "http://stackoverflow.com/questions/24477894/set-objects-to-empty-nsdictionary-in-swift",
+              "closed_reason": "duplicate",
+              "title": "Set objects to empty NSDictionary in Swift"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "swift",
+                       "alert",
+                       "uialertcontroller"
+                       ],
+              "owner": {
+              "reputation": 1,
+              "user_id": 3787416,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/72d615781c370c7e7cb16c65750aa6e2?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Andorath",
+              "link": "http://stackoverflow.com/users/3787416/andorath"
+              },
+              "is_answered": true,
+              "view_count": 27,
+              "answer_count": 1,
+              "score": 0,
+              "last_activity_date": 1404057762,
+              "creation_date": 1404033899,
+              "last_edit_date": 1404034252,
+              "question_id": 24474762,
+              "link": "http://stackoverflow.com/questions/24474762/check-on-uialertcontroller-textfield-for-enabling-the-button",
+              "title": "Check on UIAlertController TextField for enabling the button"
+              },
+              {
+              "tags": [
+                       "swift",
+                       "nsdata"
+                       ],
+              "owner": {
+              "reputation": 2476,
+              "user_id": 47636,
+              "user_type": "registered",
+              "accept_rate": 86,
+              "profile_image": "https://www.gravatar.com/avatar/3803e5e39b4c83c85916702390e091a4?s=128&d=identicon&r=PG",
+              "display_name": "Sam",
+              "link": "http://stackoverflow.com/users/47636/sam"
+              },
+              "is_answered": true,
+              "view_count": 55,
+              "accepted_answer_id": 24397356,
+              "answer_count": 1,
+              "score": 2,
+              "last_activity_date": 1404057727,
+              "creation_date": 1403615449,
+              "last_edit_date": 1404057727,
+              "question_id": 24387548,
+              "link": "http://stackoverflow.com/questions/24387548/create-cstring-from-nsdata",
+              "title": "Create CString from NSData"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "objective-c",
+                       "swift",
+                       "xcode6"
+                       ],
+              "owner": {
+              "reputation": 66,
+              "user_id": 2688697,
+              "user_type": "registered",
+              "accept_rate": 86,
+              "profile_image": "http://i.stack.imgur.com/QkeAh.png?s=128&g=1",
+              "display_name": "Nikita Pronchik",
+              "link": "http://stackoverflow.com/users/2688697/nikita-pronchik"
+              },
+              "is_answered": true,
+              "view_count": 54,
+              "accepted_answer_id": 24477751,
+              "answer_count": 2,
+              "score": 1,
+              "last_activity_date": 1404057456,
+              "creation_date": 1403970862,
+              "last_edit_date": 1404048041,
+              "question_id": 24468514,
+              "link": "http://stackoverflow.com/questions/24468514/swift-bridging-header-and-visibility-of-obj-c-class",
+              "title": "Swift Bridging Header and visibility of Obj-C class"
+              },
+              {
+              "tags": [
+                       "cocoa-touch",
+                       "rss",
+                       "swift",
+                       "rss-reader"
+                       ],
+              "owner": {
+              "reputation": 6,
+              "user_id": 1858000,
+              "user_type": "registered",
+              "accept_rate": 50,
+              "profile_image": "http://i.stack.imgur.com/NsRGf.jpg?s=128&g=1",
+              "display_name": "Ash-Bash32",
+              "link": "http://stackoverflow.com/users/1858000/ash-bash32"
+              },
+              "is_answered": false,
+              "view_count": 26,
+              "answer_count": 1,
+              "score": -3,
+              "last_activity_date": 1404056876,
+              "creation_date": 1403969610,
+              "last_edit_date": 1403970362,
+              "question_id": 24468338,
+              "link": "http://stackoverflow.com/questions/24468338/how-do-you-make-a-rss-reader-using-swift",
+              "title": "How Do you make a RSS Reader using Swift"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "swift",
+                       "ios8"
+                       ],
+              "owner": {
+              "reputation": 780,
+              "user_id": 998117,
+              "user_type": "registered",
+              "accept_rate": 79,
+              "profile_image": "https://www.gravatar.com/avatar/bfe07f542ce4f5d75e4262e188691fd5?s=128&d=identicon&r=PG&f=1",
+              "display_name": "Doug Smith",
+              "link": "http://stackoverflow.com/users/998117/doug-smith"
+              },
+              "is_answered": false,
+              "view_count": 34,
+              "answer_count": 1,
+              "score": 1,
+              "last_activity_date": 1404056181,
+              "creation_date": 1403904993,
+              "question_id": 24461121,
+              "link": "http://stackoverflow.com/questions/24461121/how-do-i-call-animatealongsidetransition-in-swift",
+              "title": "How do I call animateAlongsideTransition in Swift?"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "swift",
+                       "cs193p"
+                       ],
+              "owner": {
+              "reputation": 99,
+              "user_id": 1534524,
+              "user_type": "registered",
+              "accept_rate": 94,
+              "profile_image": "https://www.gravatar.com/avatar/7d4d1c60e2639c26a341d3d4a97dadcd?s=128&d=identicon&r=PG",
+              "display_name": "Sawyer05",
+              "link": "http://stackoverflow.com/users/1534524/sawyer05"
+              },
+              "is_answered": false,
+              "view_count": 41,
+              "answer_count": 2,
+              "score": 0,
+              "last_activity_date": 1404056031,
+              "creation_date": 1404043338,
+              "question_id": 24475889,
+              "link": "http://stackoverflow.com/questions/24475889/iboutlet-property-returning-cant-unwrap-optional-none-error",
+              "title": "IBOutlet property returning &quot;Can&#39;t unwrap Optional.None&quot; error"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "unit-testing",
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 53,
+              "user_id": 425376,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/b30ea62a8894375ec94edcd52092b20a?s=128&d=identicon&r=PG",
+              "display_name": "Leif Ashley",
+              "link": "http://stackoverflow.com/users/425376/leif-ashley"
+              },
+              "is_answered": false,
+              "view_count": 12,
+              "answer_count": 0,
+              "score": 0,
+              "last_activity_date": 1404053857,
+              "creation_date": 1404053857,
+              "question_id": 24477251,
+              "link": "http://stackoverflow.com/questions/24477251/ios-swift-unit-test-result-in-unresolved-identifier",
+              "title": "iOS Swift unit test result in unresolved identifier"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "apple",
+                       "swift",
+                       "xcode6"
+                       ],
+              "owner": {
+              "reputation": 559,
+              "user_id": 908124,
+              "user_type": "registered",
+              "accept_rate": 56,
+              "profile_image": "https://www.gravatar.com/avatar/ab3e39b835895cd65074b8a08f1a7dfe?s=128&d=identicon&r=PG",
+              "display_name": "andyPaul",
+              "link": "http://stackoverflow.com/users/908124/andypaul"
+              },
+              "is_answered": true,
+              "view_count": 21,
+              "accepted_answer_id": 24476984,
+              "answer_count": 1,
+              "score": 0,
+              "last_activity_date": 1404052053,
+              "creation_date": 1404051615,
+              "question_id": 24476914,
+              "link": "http://stackoverflow.com/questions/24476914/let-non-mutable-array-in-swift",
+              "title": "let Non-mutable array in swift"
+              },
+              {
+              "tags": [
+                       "performance",
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 522,
+              "user_id": 1384297,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/5a0f02986dab943fe254ad386e4256d0?s=128&d=identicon&r=PG",
+              "display_name": "Andy Wilkinson",
+              "link": "http://stackoverflow.com/users/1384297/andy-wilkinson"
+              },
+              "is_answered": false,
+              "view_count": 29,
+              "answer_count": 0,
+              "score": 1,
+              "last_activity_date": 1404051791,
+              "creation_date": 1404051791,
+              "question_id": 24476943,
+              "link": "http://stackoverflow.com/questions/24476943/swifts-dictionary-is-slow-even-with-ofast",
+              "title": "Swift&#39;s Dictionary is slow even with -Ofast"
+              },
+              {
+              "tags": [
+                       "swift",
+                       "immutability"
+                       ],
+              "owner": {
+              "reputation": 537,
+              "user_id": 992988,
+              "user_type": "registered",
+              "accept_rate": 74,
+              "profile_image": "https://www.gravatar.com/avatar/cde0858a920d303eab7e8d8cb5a30194?s=128&d=identicon&r=PG",
+              "display_name": "vektor",
+              "link": "http://stackoverflow.com/users/992988/vektor"
+              },
+              "is_answered": false,
+              "view_count": 39,
+              "answer_count": 1,
+              "score": 0,
+              "last_activity_date": 1404051073,
+              "creation_date": 1403966578,
+              "question_id": 24467921,
+              "link": "http://stackoverflow.com/questions/24467921/mutability-in-swift",
+              "title": "Mutability in Swift"
+              },
+              {
+              "tags": [
+                       "swift",
+                       "xcode6",
+                       "code-documentation"
+                       ],
+              "owner": {
+              "reputation": 62,
+              "user_id": 1107480,
+              "user_type": "registered",
+              "accept_rate": 100,
+              "profile_image": "https://www.gravatar.com/avatar/1a365a7d17f6c61cb244485f234a7dea?s=128&d=identicon&r=PG",
+              "display_name": "Luis Palacios",
+              "link": "http://stackoverflow.com/users/1107480/luis-palacios"
+              },
+              "is_answered": false,
+              "view_count": 27,
+              "answer_count": 1,
+              "score": 1,
+              "last_activity_date": 1404049271,
+              "creation_date": 1404038039,
+              "question_id": 24475243,
+              "link": "http://stackoverflow.com/questions/24475243/how-to-inline-code-document-swift-sources-with-xcode-6",
+              "title": "How to inline code document Swift sources with Xcode 6"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "swift",
+                       "xcode6"
+                       ],
+              "owner": {
+              "reputation": 140,
+              "user_id": 1523811,
+              "user_type": "registered",
+              "accept_rate": 71,
+              "profile_image": "https://www.gravatar.com/avatar/27847da2faa137471a248821cbcf3351?s=128&d=identicon&r=PG",
+              "display_name": "Dharmendra",
+              "link": "http://stackoverflow.com/users/1523811/dharmendra"
+              },
+              "is_answered": true,
+              "view_count": 37,
+              "accepted_answer_id": 24476087,
+              "answer_count": 2,
+              "score": 2,
+              "last_activity_date": 1404048638,
+              "creation_date": 1404042462,
+              "last_edit_date": 1404048638,
+              "question_id": 24475792,
+              "link": "http://stackoverflow.com/questions/24475792/how-to-use-pull-to-refresh-in-swift",
+              "title": "How to use pull to refresh in swift"
+              },
+              {
+              "tags": [
+                       "json",
+                       "swift",
+                       "key-value"
+                       ],
+              "owner": {
+              "reputation": 1209,
+              "user_id": 2117550,
+              "user_type": "registered",
+              "accept_rate": 79,
+              "profile_image": "http://i.stack.imgur.com/8iBJ9.jpg?s=128&g=1",
+              "display_name": "Kosmetika",
+              "link": "http://stackoverflow.com/users/2117550/kosmetika"
+              },
+              "is_answered": false,
+              "view_count": 35,
+              "answer_count": 0,
+              "score": 1,
+              "last_activity_date": 1404046563,
+              "creation_date": 1404043554,
+              "last_edit_date": 1404044897,
+              "question_id": 24475917,
+              "link": "http://stackoverflow.com/questions/24475917/swift-create-data-model-from-json-response",
+              "title": "Swift - Create data model from JSON response"
+              },
+              {
+              "tags": [
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 768,
+              "user_id": 438063,
+              "user_type": "registered",
+              "accept_rate": 88,
+              "profile_image": "https://www.gravatar.com/avatar/744dce898dad066b523eb2e6c0df7605?s=128&d=identicon&r=PG",
+              "display_name": "Lucien",
+              "link": "http://stackoverflow.com/users/438063/lucien"
+              },
+              "is_answered": true,
+              "view_count": 2254,
+              "accepted_answer_id": 24137319,
+              "answer_count": 17,
+              "score": 15,
+              "last_activity_date": 1404038375,
+              "creation_date": 1401771793,
+              "last_edit_date": 1401802165,
+              "question_id": 24007461,
+              "link": "http://stackoverflow.com/questions/24007461/how-to-enumerate-an-enum-with-string-type",
+              "title": "How to enumerate an enum with String type?"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "parse.com",
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 12,
+              "user_id": 3758811,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/a6a69b8d5011294dee7290dc40daedab?s=128&d=identicon&r=PG&f=1",
+              "display_name": "hodov",
+              "link": "http://stackoverflow.com/users/3758811/hodov"
+              },
+              "is_answered": true,
+              "view_count": 35,
+              "accepted_answer_id": 24475010,
+              "answer_count": 2,
+              "score": 0,
+              "last_activity_date": 1404036092,
+              "creation_date": 1404034935,
+              "question_id": 24474873,
+              "link": "http://stackoverflow.com/questions/24474873/swift-parse-com-how-to-pass-data-from-query",
+              "title": "Swift, parse.com: how to pass data from query"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 890,
+              "user_id": 967501,
+              "user_type": "registered",
+              "accept_rate": 100,
+              "profile_image": "https://www.gravatar.com/avatar/d40fcde3002ed0c784bef1b9729771aa?s=128&d=identicon&r=PG",
+              "display_name": "P&#233;tur",
+              "link": "http://stackoverflow.com/users/967501/p%c3%a9tur"
+              },
+              "is_answered": false,
+              "view_count": 25,
+              "answer_count": 1,
+              "score": 1,
+              "last_activity_date": 1404035355,
+              "creation_date": 1404034803,
+              "last_edit_date": 1404035149,
+              "question_id": 24474860,
+              "link": "http://stackoverflow.com/questions/24474860/how-do-i-declare-an-explicit-type-which-conforms-to-a-protocol",
+              "title": "How do I declare an explicit type which conforms to a protocol?"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "ipad",
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 890,
+              "user_id": 967501,
+              "user_type": "registered",
+              "accept_rate": 100,
+              "profile_image": "https://www.gravatar.com/avatar/d40fcde3002ed0c784bef1b9729771aa?s=128&d=identicon&r=PG",
+              "display_name": "P&#233;tur",
+              "link": "http://stackoverflow.com/users/967501/p%c3%a9tur"
+              },
+              "is_answered": false,
+              "view_count": 11,
+              "answer_count": 1,
+              "score": 1,
+              "last_activity_date": 1404033639,
+              "creation_date": 1404032977,
+              "question_id": 24474646,
+              "link": "http://stackoverflow.com/questions/24474646/uiimagepickercontroller-difference-between-issourcetypeavailable-and-iscamerade",
+              "title": "UIImagePickerController difference between isSourceTypeAvailable: and isCameraDeviceAvailable:"
+              },
+              {
+              "tags": [
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 1,
+              "user_id": 2670689,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/24e71c900097eeeb9f190c692f27cc37?s=128&d=identicon&r=PG",
+              "display_name": "avinesh",
+              "link": "http://stackoverflow.com/users/2670689/avinesh"
+              },
+              "is_answered": false,
+              "view_count": 24,
+              "closed_date": 1404034003,
+              "answer_count": 0,
+              "score": -10,
+              "last_activity_date": 1404033483,
+              "creation_date": 1404033483,
+              "question_id": 24474715,
+              "link": "http://stackoverflow.com/questions/24474715/online-compiler-for-swift-and-good-tutorials",
+              "closed_reason": "off-topic",
+              "title": "Online Compiler for Swift and Good Tutorials"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "swift"
+                       ],
+              "owner": {
+              "reputation": 4,
+              "user_id": 3786254,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/5c8e75d3f5ecfe2ffceede4f4576fb5c?s=128&d=identicon&r=PG&f=1",
+              "display_name": "immasara",
+              "link": "http://stackoverflow.com/users/3786254/immasara"
+              },
+              "is_answered": true,
+              "view_count": 46,
+              "answer_count": 1,
+              "score": 0,
+              "last_activity_date": 1404033166,
+              "creation_date": 1403971301,
+              "last_edit_date": 1403981320,
+              "question_id": 24468577,
+              "link": "http://stackoverflow.com/questions/24468577/how-to-implement-callback-selector-with-performselector-in-swift",
+              "title": "How to implement callback/selector with performSelector in swift?"
+              },
+              {
+              "tags": [
+                       "ios",
+                       "objective-c",
+                       "apple",
+                       "swift",
+                       "ios8"
+                       ],
+              "owner": {
+              "reputation": 14,
+              "user_id": 3785085,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/1152a1a370ae17bc2281782b86418f57?s=128&d=identicon&r=PG&f=1",
+              "display_name": "user3785085",
+              "link": "http://stackoverflow.com/users/3785085/user3785085"
+              },
+              "is_answered": true,
+              "view_count": 58,
+              "answer_count": 3,
+              "score": 2,
+              "last_activity_date": 1404032825,
+              "creation_date": 1403940242,
+              "last_edit_date": 1404032825,
+              "question_id": 24464628,
+              "link": "http://stackoverflow.com/questions/24464628/how-to-use-touchid-using-swift",
+              "title": "How to use TouchID using Swift?"
+              }
+              ],
+    "has_more": true,
+    "quota_max": 10000,
+    "quota_remaining": 9959
+}
