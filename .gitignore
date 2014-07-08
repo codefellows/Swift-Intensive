@@ -26,5 +26,6 @@ DerivedData
 Pods/
 Audio/
 
-# Ignore keynote files, only publish the .pdf versions
+# Ignore keynote and photoshop files, only publish the .pdf versions
 *.key
+*.psd
